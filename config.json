@@ -2,10 +2,8 @@
   "entries": {
     "index.html": {
       "hed": "Headline",
-      "dek": "This is a short description",
-      "byline": "Firstname Lastname",
-      "source": "This is the source",
-      "note": "This is a note",
+      "source": "California Franchise Tax Board",
+      "note": "Dollar amounts are adjusted for inflation to the 2023 dollar.",
       "illustrator_output_filename": "output.html"
     }
   },

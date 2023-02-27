@@ -1,1 +1,8 @@
 // Graphics CSS goes here
+.y-axis .tick text, .x-axis .tick text {
+  font-family: sans-serif;
+}
+
+.x-axis .tick:nth-child(odd) {
+  display: none;
+}
